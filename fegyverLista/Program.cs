@@ -10,6 +10,9 @@ namespace fegyverLista
     {
         static void Main(string[] args)
         {
+
+
+            Console.ReadKey();
         }
     }
 }
